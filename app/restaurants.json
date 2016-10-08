@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Hola Arepa",
+    "address": {
+      "street": "3501 Nicollet Ave",
+      "city": "Minneapolis",
+      "state": "MN",
+      "zipCode": 55408,
+      "neighborhood": "Uptown"
+    },
+    "visited": "true",
+    "website": "http://holaarepa.com/",
+    "rating": 5,
+    "favorite": true,
+    "comments": "Best restaurant ever!",
+    "dishesTried":
+    [
+      {"name": "Yucca Hash",
+      "image": {
+        "uri": "http://holaarepa.com/wp-content/uploads/2016/02/Beef-Arepa1-e1455217607827.jpg"
+        }}
+    ]
+},
+{
+    "name": "Wakame",
+    "address": {
+      "street": "3070 Excelsior Blvd",
+      "city": "Minneapolis",
+      "state": "MN",
+      "zipCode": 55416,
+      "neighborhood": "Uptown"
+    },
+    "visited": "true",
+    "website": "http://www.wakamebistro.com/",
+    "rating": 5,
+    "favorite": true,
+    "comments": "Sushi",
+    "dishesTried":
+    [
+      {"name": "Jeremy Roll",
+      "image": {
+        "uri": "http://ot-foodspotting-production.s3.amazonaws.com/reviews/5331655/thumb_600.jpg?1428358057"
+        }}
+    ]
+}
+]
